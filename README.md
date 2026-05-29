@@ -12,7 +12,7 @@ Data files are not included due to licensing. Place them in the working director
 
 Main data:
 - EIU Democracy Index 2024 — [eiu.com] (https://www.worldhappiness.report/ed/2024/))
-- Life Satisfaction, Social Support — [World Happiness Report 2025](https://worldhappiness.report/data-sharing/)
+- Life Satisfaction — [World Happiness Report 2025] (https://worldhappiness.report/data-sharing/)
 - V-Dem indices v15 — [V-Dem Dataset Archive → Core v15] (https://www.v-dem.net/data/dataset-archive/)
 
 Control variables:
