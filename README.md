@@ -9,7 +9,7 @@ Replication code for: Zusammenhang zwischen den fünf Dimensionen des EIU Democr
 Data files are not included due to licensing. Place them in the working directory before running the script.
 
 Main data:
-- EIU Democracy Index 2024 — [EIU](https://www.eiu.com/n/campaigns/democracy-index-2025/)
+- EIU Democracy Index 2025 — [EIU](https://www.eiu.com/n/campaigns/democracy-index-2025/)
 - Life Satisfaction — [World Happiness Report 2025](https://worldhappiness.report/data-sharing/)
 - V-Dem indices v15 — [V-Dem Dataset Archive → Core v15](https://www.v-dem.net/data/dataset-archive/)
 
